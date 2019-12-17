@@ -1,0 +1,4 @@
+teamName: snowman
+student1_fullName: James Meijers
+student1_studentNumber: 1002444731
+student1_email: j.meijers@mail.utoronto.ca
